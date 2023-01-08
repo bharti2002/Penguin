@@ -1,8 +1,11 @@
 # Nerdy_Penguins :penguin:
+https://user-images.githubusercontent.com/77044673/211192300-3f4d5c56-773c-4407-b41b-2b789f3c6bdc.mp4
 
-![Video](https://drive.google.com/drive/folders/1hCekXUUzf0EgC0d01bzjRiGy6DOmZHV9)
 
-## Our Aim
+
+
+## Our Aim!
+
 A lot of students as they step into college find it difficult to gather resources, ask seniors for past year papers and question teachers about what books to refer. Our we.bsite has compiled famous youtube playlists, notes, sample question papers and DSA courses.No more worrying about lack of interview preparation, we have got it all on one platform. There’s a lot in store for your dedicated college studies, penguins bring you features to track your study time, compete with your friends and a calculated division of lectures per sitting!
 
 ## Project Members
