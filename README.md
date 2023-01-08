@@ -1,33 +1,38 @@
-# Project Name- Nerdy Penguins
+# Nerdy_Penguins :penguin:
 
-# Our Aim
-Education is the process of learning and sharing. We, as an education platform provides recourses and abundant opportunities to students in almost every field from digital marketing to machine learning. We help that there is no more powerful tool than education. Education is the only weapon that can bring change in society. With this thought, we provide free resources and guide students across the platforms. Through this, we can make learning more easier and in an interesting way. We have made this website completely responsive so that students can easily view it on any screen.
+![Video](https://drive.google.com/drive/folders/1hCekXUUzf0EgC0d01bzjRiGy6DOmZHV9)
 
-# Project Members-
-Kashika Jain- Kashika18
-Ankita Bharti - bharti2002
-Shivani Singh- shivani0701
-Radhika Singhal - radhika863
+## Our Aim
+A lot of students as they step into college find it difficult to gather resources, ask seniors for past year papers and question teachers about what books to refer. Our we.bsite has compiled famous youtube playlists, notes, sample question papers and DSA courses.No more worrying about lack of interview preparation, we have got it all on one platform. There’s a lot in store for your dedicated college studies, penguins bring you features to track your study time, compete with your friends and a calculated division of lectures per sitting!
 
-# Hackathon- SheBuilds 
+## Project Members
+- Kashika Jain:  @Kashika18 
+- Ankita Bharti:  @bharti2002
+- Shivani Singh:  @shivani0701
+- Radhika Singhal:  @radhika863
 
-# Tools that we used- VS code, Replit 
+## Hackathon- SheBuilds 
+
+## Tools that we used- VS code, Replit , GitHub
 We used VS code and Replit to develop the project
+GitHub was used to collaborate with the team
 
-# Deployment tool- Netlify
+## Deployment tool- Netlify
 We deployed our website on netlify so that it can easily be viewed.
 
-# To view our project live, click on the link below
-https://quizzical-kowalevski-9f69c6.netlify.app/
+## To view our project live, click on the link below
+https://nerdypenguins.netlify.app/
 
-# Tech stacks that we used
+## Tech stacks that we used
 HTML, CSS, JavaScript
 
-# Our inspiration behind this project-
-“ The only dreams impossible to reach are the ones you never pursue.” 
+## Our inspiration behind this project
+> “ The only dreams impossible to reach are the ones you never pursue.” 
+
+
 A solution to all your academic college challenges lies here. Compiled notes and lectures from your senior’s registers straight into your own devices. 
 
-# Challenges that we run into
+## Challenges that we run into
 > HAPPINESS is when your program runs error free.
 
 - **HTML/CSS integration**
@@ -37,9 +42,3 @@ Our last try was when we coded a simple `v2` with our css file's name creating a
 
 - **Responsive Website**
 We faced many issues after the completion of the project like responsiveness and designing issues. It took much time to fix all those issues that we faced.
-
-# Our learning from this project-
-* We learnt to work in a team
-* We learnt many new concepts that we never used before
-
-
